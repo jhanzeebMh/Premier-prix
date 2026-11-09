@@ -9,13 +9,13 @@ export default function Home() {
         immédiate, et les demandes classées par montant.
       </p>
       <a
-        href="#"
+        href="https://buy.stripe.com/test_8x2cN578M6FcfDt2sO9bO00"
         className="rounded-xl bg-black px-6 py-4 text-center text-lg font-semibold text-white"
       >
-        Commencer gratuitement
+        S’abonner : 59 € par mois
       </a>
       <p className="text-sm text-neutral-500">
-        Pour les peintres en bâtiment. Sans engagement.
+        Pour les peintres en bâtiment. Sans engagement, résiliable à tout moment.
       </p>
     </main>
   );
